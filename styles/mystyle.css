@@ -1,0 +1,81 @@
+*{
+	margin: 0px auto;
+	padding: 0px;
+}
+
+body {
+	width: 1350px;
+	height: 350px;
+	background-color: #6C7A89;
+	position: absolute;
+	padding-top: 120px;
+}
+
+.button {
+	display: inline-block;
+	border-radius: 10px;
+	background-color: #f4511e;
+	border: none;
+	text-align: center;
+	font-family: Segoe UI;
+	font-size: 18px;
+	padding: 20px 0px;
+	width: 150px;
+	transition: all 0.5s;
+	cursor: pointer;
+	margin: 5px 0px 125px 0px;
+}
+
+.button a{
+	color: white;
+}
+
+.button span {
+	cursor: pointer;
+	display: inline-block;
+	position: relative;
+	transition: 0.5s;
+}
+
+.button span:after {
+	content: '\00bb';
+	position: absolute;
+	opacity: 0;
+	top: 0;
+	right: -20px;
+	transition: 0.5s;
+}
+
+.button:hover span {
+	padding-right: 25px;
+}
+
+.button:hover span:after {
+	opacity: 1;
+	right: 0;
+}
+
+.button:hover{
+	background-color: #ff6d37;
+}
+
+.button:active{
+	background-color: #f4511e;
+}
+
+#Footer {
+	background-color: #DADFE1;
+	width: 1350px;
+	height: 30px;
+	position: absolute;
+	margin-top: 250px;
+}
+
+p{
+	color: black;
+	font-style: bold;
+	font-family: Times New Roman;
+	text-align: center;	
+	font-size: 15px;
+	margin-top: 5px;
+}
