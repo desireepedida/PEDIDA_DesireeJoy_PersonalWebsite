@@ -6,3 +6,31 @@
 body {
 	margin: 5px auto;
 }
+
+#Navbar{
+    width:1366px;
+    height: 55px;
+	background-color: #DB0A5B;
+	padding-top: 15px;
+	position: fixed;
+}
+
+p, em{
+	font-family: Adobe Caslon Pro Bold;
+	font-size: 30px;
+	text-align: center;
+	font-style: bold;
+	padding-top: 5px;
+}
+	
+p a:link, p a:visited, p a:active{
+	text-decoration: none; 
+	color: white; 
+}
+  
+p a:hover{
+	text-decoration: none; 
+	color: white; 
+	font-size: 35px;
+	text-shadow: 1px 1px 3px #CC0099;
+}
