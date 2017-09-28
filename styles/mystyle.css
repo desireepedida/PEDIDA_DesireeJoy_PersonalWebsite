@@ -9,6 +9,11 @@ body {
 	background-color: #F62459;
 }
 
+#welcomepage {
+	padding-top: 50px;
+	position: relative:
+}
+
 .button {
 	display: inline-block;
 	border-radius: 10px;
