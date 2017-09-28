@@ -17,16 +17,16 @@ body {
 .button {
 	display: inline-block;
 	border-radius: 20px;
-	background-color: #f4511e;
+	background-color: #19B5FE;
 	border: none;
 	text-align: center;
 	font-family: Segoe UI;
 	font-size: 18px;
-	padding: 20px 0px;
 	width: 150px;
-	transition: all 0.5s;
+	height: 50px;
+	transition: all 0.3s;
 	cursor: pointer;
-	margin: 5px 0px 125px 0px;
+	margin-left: 45px;
 }
 
 .button a{
