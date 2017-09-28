@@ -59,11 +59,11 @@ body {
 }
 
 .button:hover{
-	background-color: #ff6d37;
+	background-color: #F64747;
 }
 
 .button:active{
-	background-color: #f4511e;
+	background-color: #F64747;
 }
 
 #Footer {
