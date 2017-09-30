@@ -12,3 +12,25 @@
 	position: fixed;
 	background-color: #DB0A5B;
 }
+
+p, em{
+	font-family: Adobe Caslon Pro Bold;
+	font-size: 30px;
+	text-align: center;
+	font-style: bold;
+	padding-top: 5px;
+	display: inline-block;
+	padding-left: 200px;
+	padding-right: 200px;
+}
+	
+p a:link, p a:visited, p a:active{
+	text-decoration: none; 
+	color: white; 
+}
+
+p a:hover{
+	text-decoration: none; 
+	color: white; 
+	font-size: 40px;
+}
