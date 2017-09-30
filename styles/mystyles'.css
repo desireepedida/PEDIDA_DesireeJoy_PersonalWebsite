@@ -34,3 +34,18 @@ p a:hover{
 	color: white; 
 	font-size: 40px;
 }
+
+#profile {
+	background-color: #95A5A6;
+	width: 950px;
+	height: 400px;
+	margin-left: 200px;
+	margin-top: -50px;
+	position: relative;
+}
+
+#profileimage img {
+	margin-left: 50px;
+	margin-top: -55px;
+	position: relative;
+}
