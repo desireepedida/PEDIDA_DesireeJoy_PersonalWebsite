@@ -49,3 +49,26 @@ p a:hover{
 	margin-top: -55px;
 	position: relative;
 }
+
+#border1 {
+    padding-left: 15px;
+    border: 5px;
+	width: 600px;
+	height: 330px; 
+	border-radius: 25px;
+	background-color: #DB0A5B;
+	display: block;
+	margin-top: -68px;
+	margin-left: 180px;
+	list-style: none;
+}
+
+h1.basic-info {
+	padding-top: 20px;
+	font-family: Cooper Std Black;
+	font-size: 40px;
+	text-align: center;
+	color: #ECECEC;
+	padding-top: 50px;
+	padding-right: 20px;
+}
