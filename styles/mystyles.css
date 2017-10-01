@@ -34,3 +34,31 @@ p a:hover{
 	color: white; 
 	font-size: 40px;
 }
+
+#profile {
+	background-color: #95A5A6;
+	width: 950px;
+	height: 650px;
+	margin-left: 200px;
+	margin-top: -55px;
+	position: static;
+}
+
+#profile img {
+	margin-left: 30px;
+	margin-top: 100px;
+	position: static;
+}
+
+#border1 {
+    padding-left: 50px;
+    border: 5px;
+	width: 600px;
+	height: 330px; 
+	border-radius: 25px;
+	background-color: #DB0A5B;
+	display: block;
+	margin-top: -150px;
+	margin-left: 250px;
+	list-style: none;
+}
